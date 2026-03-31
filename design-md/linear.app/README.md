@@ -1,6 +1,6 @@
-# Linear.app — Design System
+# Linear Inspired Design System
 
-> Design.md extracted from the public [linear.app](https://linear.app.dev/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
+[DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/linear.app/DESIGN.md) extracted from the public [linear](https://linear.app/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
 
 ## Files
 
@@ -10,16 +10,15 @@
 | `preview.html` | Interactive design token catalog (light) |
 | `preview-dark.html` | Interactive design token catalog (dark) |
 
-## Usage
 
-Open `DESIGN.md` to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that matches the Linear.app design language.
+Use [DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/linear.app/DESIGN.md) to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that looks like the Linear design language.
 
 ## Preview
 
 A sample landing page built with DESIGN.md. It shows the actual colors, typography, buttons, cards, spacing, and elevation, all in one page.
 
 ### Dark Mode
-![Linear.app Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/linear.app/preview-dark-screenshot.png)
+![Linear Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/linear.app/preview-dark-screenshot.png)
 
 ### Light Mode
-![Linear.app Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/linear.app/preview-screenshot.png)
+![Linear Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/linear.app/preview-screenshot.png)

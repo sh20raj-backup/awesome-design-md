@@ -1,6 +1,6 @@
-# Vercel — Design System
+# Vercel Inspired Design System
 
-> Design.md extracted from the public [vercel](https://vercel.dev/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
+[DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/vercel/DESIGN.md) extracted from the public [vercel](https://vercel.com/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
 
 ## Files
 
@@ -10,9 +10,8 @@
 | `preview.html` | Interactive design token catalog (light) |
 | `preview-dark.html` | Interactive design token catalog (dark) |
 
-## Usage
 
-Open `DESIGN.md` to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that matches the Vercel design language.
+Use [DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/vercel/DESIGN.md) to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that looks like the Vercel design language.
 
 ## Preview
 

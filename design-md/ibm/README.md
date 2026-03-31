@@ -1,6 +1,6 @@
-# Ibm — Design System
+# IBM Inspired Design System
 
-> Design.md extracted from the public [ibm](https://ibm.dev/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
+[DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/ibm/DESIGN.md) extracted from the public [ibm](https://ibm.com/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
 
 ## Files
 
@@ -10,16 +10,15 @@
 | `preview.html` | Interactive design token catalog (light) |
 | `preview-dark.html` | Interactive design token catalog (dark) |
 
-## Usage
 
-Open `DESIGN.md` to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that matches the Ibm design language.
+Use [DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/ibm/DESIGN.md) to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that looks like the IBM design language.
 
 ## Preview
 
 A sample landing page built with DESIGN.md. It shows the actual colors, typography, buttons, cards, spacing, and elevation, all in one page.
 
 ### Dark Mode
-![Ibm Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/ibm/preview-dark-screenshot.png)
+![IBM Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/ibm/preview-dark-screenshot.png)
 
 ### Light Mode
-![Ibm Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/ibm/preview-screenshot.png)
+![IBM Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/ibm/preview-screenshot.png)

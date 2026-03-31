@@ -1,6 +1,6 @@
-# X.ai — Design System
+# xAI Inspired Design System
 
-> Design.md extracted from the public [x.ai](https://x.ai.dev/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
+[DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/x.ai/DESIGN.md) extracted from the public [xai](https://x.ai/) website. This is not the official design system. Colors, fonts, and spacing may not be 100% accurate. But it's a good starting point for building something similar.
 
 ## Files
 
@@ -10,16 +10,15 @@
 | `preview.html` | Interactive design token catalog (light) |
 | `preview-dark.html` | Interactive design token catalog (dark) |
 
-## Usage
 
-Open `DESIGN.md` to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that matches the X.ai design language.
+Use [DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/x.ai/DESIGN.md) to use as a reference for AI agents (Claude, Cursor, Stitch) to generate UI that looks like the xAI design language.
 
 ## Preview
 
 A sample landing page built with DESIGN.md. It shows the actual colors, typography, buttons, cards, spacing, and elevation, all in one page.
 
 ### Dark Mode
-![X.ai Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/x.ai/preview-dark-screenshot.png)
+![xAI Design System — Dark Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/x.ai/preview-dark-screenshot.png)
 
 ### Light Mode
-![X.ai Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/x.ai/preview-screenshot.png)
+![xAI Design System — Light Mode](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/designs/x.ai/preview-screenshot.png)
