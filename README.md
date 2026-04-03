@@ -162,6 +162,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **Improve existing files**: Fix wrong colors, missing tokens, weak descriptions
 - **Report issues**: Let us know if something looks off
 
+Before opening a PR, please [open an issue](https://github.com/VoltAgent/awesome-design-md/issues) first to discuss your idea and get feedback from maintainers.
+
 
 ## License
 
