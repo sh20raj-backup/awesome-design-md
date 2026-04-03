@@ -76,7 +76,7 @@ Each site includes:
 
 ## Request a DESIGN.md
 
-[Open a request](https://github.com/VoltAgent/awesome-design-md/issues/new?template=design-md-request.yml) to get a DESIGN.md generated for a website.
+[Open a GitHub issue with this template](https://github.com/VoltAgent/awesome-design-md/issues/new?template=design-md-request.yml) to request a DESIGN.md generation for a website.
 
 
 ## Collection
