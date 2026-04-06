@@ -1,4 +1,4 @@
-# Design System: Renault
+# Design System Inspiration of Renault
 
 ## 1. Visual Theme & Atmosphere
 

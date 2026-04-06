@@ -1,4 +1,4 @@
-# Design System: Ferrari
+# Design System Inspiration of Ferrari
 
 ## 1. Visual Theme & Atmosphere
 

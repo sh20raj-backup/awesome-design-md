@@ -1,4 +1,4 @@
-# Design System: Lamborghini
+# Design System Inspiration of Lamborghini
 
 ## 1. Visual Theme & Atmosphere
 

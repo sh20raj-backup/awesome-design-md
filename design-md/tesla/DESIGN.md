@@ -1,4 +1,4 @@
-# Design System: Tesla
+# Design System Inspiration of Tesla
 
 ## 1. Visual Theme & Atmosphere
 
